@@ -1,0 +1,7 @@
+1. Summary (заголовок)
+2. Description (описание)
+3. Actual/expected result (фактический/ожидаемый результат)
+4. Attachments (вложения)
+5. Priority (приоритет)
+6. Severity (серьёзность)
+7. Status (статус)
